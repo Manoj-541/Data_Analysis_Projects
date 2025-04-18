@@ -47,4 +47,4 @@ Feel free to contribute by improving the analysis, adding new visualizations, or
 This dataset and analysis are publicly available for research and educational purposes.
 
 ---
-For any queries, contact https://github.com/Manoj-541/Data_Analysis_Projects.
+For any queries, contact: https://www.linkedin.com/in/manoj-kumar-somannagari-7a28672ab/.
